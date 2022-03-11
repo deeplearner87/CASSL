@@ -4,7 +4,7 @@ Dibyendu Bikash Seal, Vivek Das, Rajat K. De, "A cell-type annotation method for
 Accepted for publication in Applied Intelligence, Springer
 ----------------------------------------------------------
 
-Author Information:
+Author Information
 -------------------
 Dibyendu Bikash Seal
 A. K. Choudhury School of Information Technology, University of Calcutta,
@@ -21,13 +21,13 @@ Machine Intelligence Unit, Indian Statistical Institute,
 203 Barrackpore Trunk Road, Kolkata 700108, India
 E-mail: rajat@isical.ac.in
 
-Instructions:
+Instructions
 -------------
 To test CASSL on datasets with missing annotations, run CASSL.ipynb. 
 
 To validate CASSL on datasets with no missing annotations, run CASSL_Validation.ipynb. Go to "Remove p% labels" sub-section and set the percentage of cells to be used for training.
 
-Dataset source:
+Dataset source 
 ---------------
 https://doi.org/10.5281/zenodo.5681184
 
