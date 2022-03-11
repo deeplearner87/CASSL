@@ -31,4 +31,6 @@ Dataset source:
 ---------------
 https://doi.org/10.5281/zenodo.5681184
 
+Graphical abstract
+------------------
 ![CASSL_Workflow](https://user-images.githubusercontent.com/19671806/155663400-820690d8-9d37-45ae-8ff8-803e4b4ceef1.jpg)
