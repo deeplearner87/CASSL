@@ -1,6 +1,9 @@
 # CASSL
 Dibyendu Bikash Seal, Vivek Das, Rajat K. De, "A cell-type annotation method for single cell transcriptomics data using semi-supervised learning. This project aims at learning cell annotations for missing cell labels via NMF and recursive k-Means clustering"
 
+Accepted for publication in Applied Intelligence, Springer
+----------------------------------------------------------
+
 Author Information:
 -------------------
 Dibyendu Bikash Seal
@@ -17,9 +20,6 @@ Rajat K. De
 Machine Intelligence Unit, Indian Statistical Institute,
 203 Barrackpore Trunk Road, Kolkata 700108, India
 E-mail: rajat@isical.ac.in
-
-Accepted for publication in Applied Intelligence, Springer
-----------------------------------------------------------
 
 Instructions:
 -------------
