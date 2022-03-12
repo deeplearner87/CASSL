@@ -4,7 +4,7 @@ Dibyendu Bikash Seal, Vivek Das, Rajat K. De, "A cell-type annotation method for
 Accepted for publication in Applied Intelligence, Springer
 ----------------------------------------------------------
 
-Author Information
+Authors' Information
 -------------------
 Dibyendu Bikash Seal
 A. K. Choudhury School of Information Technology, University of Calcutta,
