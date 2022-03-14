@@ -7,18 +7,21 @@ Accepted for publication in Applied Intelligence, Springer
 Authors' Information
 -------------------
 Dibyendu Bikash Seal
+
 A. K. Choudhury School of Information Technology, University of Calcutta,
 JD - II, Sector III, Salt Lake City, Kolkata 700106, India
 
 E-mail: dbsakc@caluniv.ac.in
 
 Vivek Das
+
 Novo Nordisk A/S,
 Novo Nordisk Park 1, 2760 M ̊aløv, Denmark
 
 E-mail: vivekdas.0687@gmail.com
 
 Rajat K. De
+
 Machine Intelligence Unit, Indian Statistical Institute,
 203 Barrackpore Trunk Road, Kolkata 700108, India
 
