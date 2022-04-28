@@ -1,8 +1,9 @@
 # CASSL
 Dibyendu Bikash Seal, Vivek Das, Rajat K. De, "A cell-type annotation method for single cell transcriptomics data using semi-supervised learning. This project aims at learning cell annotations for missing cell labels via NMF and recursive k-Means clustering"
 
-Accepted for publication in Applied Intelligence, Springer
+Citation
 ----------------------------------------------------------
+Seal, D.B., Das, V. & De, R.K. CASSL: A cell-type annotation method for single cell transcriptomics data using semi-supervised learning. Appl Intell (2022). https://doi.org/10.1007/s10489-022-03440-4
 
 Authors' Information
 -------------------
